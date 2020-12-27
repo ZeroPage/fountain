@@ -3,3 +3,6 @@
 
 ## 위키
 https://wiki.zeropage.org/wiki.php/분수도%20모르는%20게%20까불어
+
+## 회로
+![Circuit](images/fountain_arduino_shift_register_bb.jpg)
